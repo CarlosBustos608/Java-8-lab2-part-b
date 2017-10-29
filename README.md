@@ -55,3 +55,4 @@ For this problem you must perform the following:
         d.	Your code must not hard-code county or city names - it will need to build ArrayLists from the data file as needed.
       5.	Verification of output
         a.	How do you know what is correct? View this as a work assignment where you are given a large database and have to produce a report that can be run via your program. There is no solution to compare it with. You need to analyze the input data and determine if your output is correct.
+ 
